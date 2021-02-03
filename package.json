@@ -1,0 +1,23 @@
+{
+  "name": "DemoGithubAction",
+  "version": "1.0.0",
+  "description": "a simple demo of githubaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akevalion/DemoGithubAction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akevalion/DemoGithubAction/issues"
+  },
+  "homepage": "https://github.com/akevalion/DemoGithubAction#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6"
+  }
+}
